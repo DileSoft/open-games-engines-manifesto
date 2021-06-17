@@ -12,7 +12,7 @@
 
 Джон Кармак, будучи техническим директором id Software, в своё время взял за правило публиковать движки их культовых игр в открытом доступе через несколько лет после выпуска игры. По этой причине такие классические игры как Wolfenstein 3d, Doom и Quake живы и развиваются до сих пор, и были портированы на все устройства в мире.
 
-Так поступали и многие другие разработчики. На Википедии можно найти [большой список](https://en.wikipedia.org/wiki/Category:Commercial_video_games_with_freely_available_source_code) игр с открытыми исходными кодами.
+Так поступали и многие другие разработчики. На Википедии можно найти [большой список игр](https://en.wikipedia.org/wiki/Category:Commercial_video_games_with_freely_available_source_code) с открытыми исходными кодами.
 
 Авторы этого манифеста сами имеют опыт публикации игровых движков, будучи поклонниками игр компании К-Д ЛАБ. Нашими усилиями были опубликованы исходные коды игр ВанГеры (1998 г., [GitHub](http://github.com/KranX/Vangers)) и Периметр (2004 г., [GitHub](http://github.com/KranX/Perimeter)). Это позволило, в частности, портировать ВанГеры на многие платформы, и даже перевыпустить коммерческое издание игры в браузерах. Сообщество также взяло на себя развитие официальных изданий игры в Steam и GOG.
 
@@ -26,10 +26,9 @@
 
 15.06.2021
 
-Авторы
-* Дмитрий Лейкин (https://t.me/dilesoft, https://vk.com/dilesoft, +7 903 125 33 68)
-Обратная связь: https://github.com/DileSoft/open-games-engines-manifesto/issues
+Авторы:
 
+*   Дмитрий Лейкин ([https://t.me/dilesoft](https://t.me/dilesoft), [https://vk.com/dilesoft](https://vk.com/dilesoft), +7 903 125 33 68)
+
+Обратная связь: [https://github.com/DileSoft/open-games-engines-manifesto/issues](https://github.com/DileSoft/open-games-engines-manifesto/issues)
 ![alt text](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png "«Attribution-ShareAlike» («Атрибуция-СохранениеУсловий») 4.0 Всемирная (CC BY-SA 4.0)")
-
-«Attribution-ShareAlike» («Атрибуция-СохранениеУсловий») 4.0 Всемирная (CC BY-SA 4.0)
